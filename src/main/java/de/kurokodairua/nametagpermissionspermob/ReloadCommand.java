@@ -1,4 +1,4 @@
-package de.kurokodairua.nametagPermissionsPerMob;
+package de.kurokodairua.nametagpermissionspermob;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
