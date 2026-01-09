@@ -1,0 +1,16 @@
+name: NametagPermissionsPerMob
+version: 1.1.0
+main: de.kurokodairua.nametagpermissionspermob.NametagPermissionsPerMob
+api-version: "1.21"
+author: Kurokodairua
+description: Blockiert Nametags pro Mob mit Permissions
+
+commands:
+  npm:
+    description: Reload Command
+    usage: /npm reload
+    permission: nametag.admin
+
+permissions:
+  nametag.admin:
+    default: op
