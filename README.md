@@ -1,3 +1,5 @@
+# instructions :v::kissing:
+
 nametags get a crafting recipe and i dont want ppl to stand in the stronghold freely nametagging silverfish to make my servers crash
 
 add mob you want blocked to NametagPermissionsPerMob/config/mobs.yml 
